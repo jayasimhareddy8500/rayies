@@ -1,0 +1,12 @@
+
+
+ng build --prod
+
+ ng run my-first-app:server
+
+ npm run webpack:server
+
+ node dist/server.js
+
+
+  ng run  rayies-multipage:server
